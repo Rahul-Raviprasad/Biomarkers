@@ -1,6 +1,10 @@
 # Biomarkers
 Health and Biomarker: Dashboard and protocol
 
+## Disclaimer:
+
+This Repository is not a substitute for professional medical advice. This is for general informational purposes only and is not a substitute for professional medical advice. If you think you may have a medical emergency/issue, talk to your doctor. Always seek the advice of your doctor before starting or changing treatment.
+
 
 ## What Are Biomarkers
 Biomarkers are characteristics of the body that you can measure. Example your blood pressure is actually a biomarker.
