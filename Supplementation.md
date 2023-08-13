@@ -24,12 +24,19 @@ Anti Aging
 
 ## NMN Nicotineamide MonoNucleotide
 1g (1000mg) of NMN
+take in morning to align with natural circadian rythm
 
 ## resveratrol
 1g daily shaken with homehoade yogurt - daivd sinclar in lifespan book
 
 ## Metformin
 1g daily
+
+## Spermidine
+1-2 mg daily - experimental yet
+
+<img width="979" alt="image" src="https://github.com/Rahul-Raviprasad/Biomarkers/assets/13184203/be7eecb0-d320-4455-b00b-69de539e1b16">
+
 
 ## Aspirin
 83mg of aspirin
