@@ -11,10 +11,33 @@ Most Safe and Highest Efficacy and first on the list of things to be considered.
 1. Take 3-5 Grams per day
 2. Earlier many years ago people used to cycle it off by not taking for a month, but this is not a hormonoal supplementation and can be taken continuously. Can be cycled for monetary purposes
 
-
+## Vitamin D
+Sunlight?
+2000-5000 unit per day standard
 
 ## Vitamin K2
 Best against calcification of artery and good for heart.
+50-120 mcg per day
 
 ## Alpha-Ketoglutarate AKG
 Anti Aging
+
+## NMN Nicotineamide MonoNucleotide
+1g (1000mg) of NMN
+
+## resveratrol
+1g daily shaken with homehoade yogurt - daivd sinclar in lifespan book
+
+## Metformin
+1g daily
+
+## Aspirin
+83mg of aspirin
+
+# Protocol Leaders follow
+David Sinclair
+* 1g (1000mg) of NMN, 1g resveratrol daily shaken with homehoade yogurt, and Metformin 1g daily in the morning
+* Vitamin D, K2 and 83mg of aspirin
+* keep sugar, bread, pasta low
+
+  lifespan page 304
