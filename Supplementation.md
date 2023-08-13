@@ -30,13 +30,18 @@ take in morning to align with natural circadian rythm
 1g daily shaken with homehoade yogurt - daivd sinclar in lifespan book
 
 ## Metformin
-1g daily
+1g daily --- 800 mg at night. Not to be taken on days before going for excercise.
+Diabetes prevention and cure
+Has benefits similar to fasting
 
 ## Spermidine
 1-2 mg daily - experimental yet
 
 <img width="979" alt="image" src="https://github.com/Rahul-Raviprasad/Biomarkers/assets/13184203/be7eecb0-d320-4455-b00b-69de539e1b16">
 
+## Trimethylglycine TMG
+this is to counter NMN
+considered pretty safe
 
 ## Aspirin
 83mg of aspirin
@@ -46,5 +51,8 @@ David Sinclair
 * 1g (1000mg) of NMN, 1g resveratrol daily shaken with homehoade yogurt, and Metformin 1g daily in the morning
 * Vitamin D, K2 and 83mg of aspirin
 * keep sugar, bread, pasta low
+
+<img width="1636" alt="image" src="https://github.com/Rahul-Raviprasad/Biomarkers/assets/13184203/4b7753df-ff03-410e-9dfd-655c5c7e066f">
+
 
   lifespan page 304
